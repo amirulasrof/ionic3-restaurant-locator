@@ -1,0 +1,60 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>Nearby</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only (click)="presentAlert()">
+        <ion-icon ios="ios-help-circle" md="md-help-circle"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+ 
+ 
+<ion-content>
+ 
+    <ion-list no-lines>
+        <ion-item *ngFor="let location of locations.data">
+            <!-- <ion-card>
+            <ion-avatar item-left>
+                <ion-img style="width: 80px; height: 80px;" src={{location.image}}></ion-img>
+                <button ion-button icon-right>
+                    Go
+                    <ion-icon name="ion-play"></ion-icon>
+                </button>
+            </ion-avatar>
+            <h2>{{location.title}}</h2>
+            <p>{{location.distance}} miles</p>
+            </ion-card> !-->
+            <!-- from docs !-->
+            <ion-card> 
+              <img src={{location.image}}  />
+                <!--<ion-fab right top>
+                    <button ion-fab>
+                    <ion-icon name="pin"></ion-icon>
+                </button>
+                </ion-fab> !-->
+
+            <ion-item>
+                <ion-icon name="restaurant" item-start small></ion-icon>
+                <h2>{{location.title}}</h2>
+                <!-- <p>11 N. Way St, Madison, WI 53703</p> !-->
+            </ion-item>
+
+            <ion-item>
+                <span item-left>
+                {{location.distance}} kilometers</span>
+                <button ion-button (click)="navme(location.title)"
+                 icon-left
+                 item-end round>
+                <ion-icon name="navigate"></ion-icon>
+                Go
+                </button>
+            </ion-item>
+
+            </ion-card>
+        </ion-item>
+
+        
+    </ion-list>
+ 
+</ion-content>

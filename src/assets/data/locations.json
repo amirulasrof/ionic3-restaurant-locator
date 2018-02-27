@@ -1,0 +1,66 @@
+﻿{
+    "locations": [
+
+        {
+            "image": "https://lh6.googleusercontent.com/proxy/XS3DqYyGHAIftZbwbD3rVuTAXV7muGzi4wwdw2F9H0GSWFlX1ZQDnEYj_E0Ph8SA_VslrXfUiP5Npxte5_r_IsBqjIW6j6LZa7W423UNSDM30fwAztib0qDQwLCVMsiFiMRo1PJ_M7OaUwg4bgClfLQ3DQvzoA=w408-h271-k-no",
+            "title": "Serai Thai Restoran",
+            "latitude": 3.0778921,
+            "longitude" : 101.5097154
+        },
+        {
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOFNpAz5KhseEwogLh6hkz9pHTtZHSOxyQHygVd=w791-h200-k-no",
+            "title": "Pak Li Kopitiam Shah Alam 7",
+            "latitude": 3.074745000000001,
+            "longitude" : 101.4849798
+        },
+        {
+            "image": "https://lh5.googleusercontent.com/p/AF1QipO1ftFL5L-PwlrRm-_hMSuGKa-oYTlQ49x9UhAZ=w408-h433-k-no",
+            "title": "D' Arab Cafe",
+            "latitude": 3.076439999999999,
+            "longitude" : 101.4958575
+        },
+        {
+            "image": "https://lh5.googleusercontent.com/p/AF1QipO0PG5AmqOKe8dVwq3wSyv4qptp2Q_qGt-Epbs4=w408-h229-k-no",
+            "title": "Subway Section 7 Shah Alam",
+            "latitude": 3.067849,
+            "longitude" : 101.4895552
+        },
+        {
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMsYlu3L0I_15gT65X6IjFJ9-6Y-0Dz_4IknBky=w408-h306-k-no",
+            "title": "KFC",
+            "latitude": 3.0670618,
+            "longitude" : 101.490904
+        },
+        {
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNOeTcKq_l1wsFRNgkSXrbHwBtyEaxKEvol3hWx=w408-h288-k-no",
+            "title": "MR Junior Shah Alam",
+            "latitude": 3.0646094,
+            "longitude" : 101.4903053
+        },
+        {
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOQz7GZo0gOo-p6xocz_uE8PT1Syw7ReFQ2D7dp=w408-h306-k-no",
+            "title": "A&W Petronas Jln Plumbum Sek 7",
+            "latitude": 3.0696514,
+            "longitude" : 101.4908932
+        },
+        {
+            "image": "https://lh5.googleusercontent.com/p/AF1QipN3oMxjZkGZnoA3XGCJ62klQK238uWuSmDfHPM=w408-h306-k-no",
+            "title": "Tutti Frutti Section 7 Shah Alam",
+            "latitude": 3.067855,
+            "longitude" : 101.489441
+        },
+        {
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMkjaQibnv_3Xdlrfl7Li5OvAdX3DKwhymMEMbk=w408-h218-k-no",
+            "title": "Restoran Pak Mil Katering",
+            "latitude": 3.065685999999999,
+            "longitude" : 101.490176
+        },
+        {
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNJPJBj_aqbUNHUW3oVZLj8bopb4I4zY3h9YIcI=w408-h229-k-no",
+            "title": "Secret Recipe Section 7, Shah Alam",
+            "latitude": 3.067880699999999,
+            "longitude" : 101.4891189
+        }
+        
+    ]
+}
