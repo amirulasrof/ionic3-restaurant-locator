@@ -2,7 +2,7 @@
 Simple list of restaurant based on ordering using JSON
 
 Steps :
-1. Fork or download source zip
+1. Clone or download source zip
 2. npm install
 3. Install the TypeScript Definition Manager CLI
    npm install typings --global
